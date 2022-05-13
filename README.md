@@ -6,9 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working at **[Mediar Solutions](https://mediarsolutions.com/en/)**
-
-- 🌱 I’m currently learning **C++ and QT6.**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
