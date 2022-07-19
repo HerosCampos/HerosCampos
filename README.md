@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **C++ and QT**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
