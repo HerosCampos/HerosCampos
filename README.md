@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **herosrac@gmail.com**
 
-- ⚡ Fun fact **I love watching horror movies and studying new technologies.**
+- ⚡ Fun fact **I love watching horror movies and studying C++.**
 
 ## 🚀 Languages and Tools:
 
